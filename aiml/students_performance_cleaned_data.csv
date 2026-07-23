@@ -1,0 +1,8 @@
+StudentID,StudentName,Gender,Attendance,StudyHours,FinalMarks,Result
+1, Rahul ,male,85.0,4,78.0,Pass
+2,Priya,Female,,5,88.0,Pass
+3,Aman,MALE,60.0,2,,Fail
+4,Neha,female,130.0,3,66.0,Pass
+5,Rohit,Male,55.0,1,-5.0,Fail
+6,Simran,Female,88.0,4,82.0,Pass
+7,Simran,Female,88.0,4,,Pass

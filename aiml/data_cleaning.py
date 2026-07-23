@@ -48,3 +48,5 @@ print(duplicates)
 without_duplicates = df.drop_duplicates()
 print(df)
 print(without_duplicates)
+
+without_duplicates.to_csv("students_performance_cleaned_data.csv", index=False)
